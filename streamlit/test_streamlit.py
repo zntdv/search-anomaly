@@ -1,2 +1,4 @@
 import streamlit as st
-st.title("Hello, Попка! Streamlit работает!")
+
+# Display a short welcome message in Russian
+st.title("Привет, мир! Streamlit работает!")
